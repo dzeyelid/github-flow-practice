@@ -1,2 +1,1 @@
-# github-flow-practice
-GitHubフローを練習するためのリポジトリ
+# GitHubフローを練習するためのリポジトリ
